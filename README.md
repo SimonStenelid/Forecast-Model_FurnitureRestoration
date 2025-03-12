@@ -1,5 +1,4 @@
 # Financial Forecast Model - For my Furniture Restoration Business 🔨
----
 
 <img src="https://github.com/user-attachments/assets/0f8157a2-efce-4e42-8667-55ce6597ee06" width="650">
 
